@@ -1,0 +1,33 @@
+  .copy_right_footer{
+    background-color: gray;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    color: honeydew;
+    width: 100%;
+  }
+  
+  canvas{
+    border-radius: 10px;
+    border: 5px solid whitesmoke;
+  }
+ 
+  .heading{
+      width: 100%;
+      box-shadow: 5px 5px 5px black;
+      font-size: 25px;
+  }
+
+  #Test{
+      background-color: orange;
+      border-radius: 10px;
+      margin-left: 200px;
+      margin-top: 75px;
+  }
+
+  img{
+      margin: 10px;
+      height: 175px;
+      border-radius: 10px;
+  }
+
